@@ -14,6 +14,7 @@
     black: 'btn-inverse',
     inverse: 'btn-inverse',
     link: 'btn-link',
+    grey: 'btn-primary inactive-radios',
   }
 
   $.fn.radiosforbuttons = function (options) {
