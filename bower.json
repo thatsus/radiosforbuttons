@@ -1,9 +1,30 @@
 {
-    "name": "thatsus/radiosforbuttons",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/thatsus/radiosforbuttons.git"
-        }
-    ]
+  "name": "thatsus/radiosforbuttons",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/thatsus/radiosforbuttons.git"
+    }
+  ],
+  "version": "1.2.1",
+  "homepage": "https://github.com/thatsus/radiosforbuttons",
+  "authors": [
+    "Rylan Lambertsen <rlambertsen@thatsus.com>"
+  ],
+  "description": "Turn Radios into buttons",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bootstrap",
+    "buttons"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
