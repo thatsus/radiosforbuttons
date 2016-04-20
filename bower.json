@@ -1,0 +1,9 @@
+{
+    "name": "thatsus/radiosforbuttons",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/thatsus/radiosforbuttons.git"
+        }
+    ]
+}
