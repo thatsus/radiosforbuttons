@@ -1,0 +1,20 @@
+{
+  "name": "radiosforbuttons-patch",
+  "version": "1.2.1",
+  "homepage": "https://github.com/thatsus/radiosforbuttons",
+  "authors": [
+    "Rylan Lambertsen <rlambertsen@thatsus.com>"
+  ],
+  "keywords": [
+    "bootstrap",
+    "buttons"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
